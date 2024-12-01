@@ -50,8 +50,6 @@ func main() {
 		} else {
 			sl[two] = 1
 		}
-
-		fmt.Println(line)
 	}
 
 	result := 0
